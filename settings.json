@@ -77,7 +77,7 @@
     "sync.autoDownload": false,
     "sync.autoUpload": false,
     "sync.forceDownload": false,
-    // "settingsSync.keybindingsPerPlatform": true,
+    "settingsSync.keybindingsPerPlatform": false,
     "prettier.eslintIntegration": true,
     // Enable per-language
     "[javascript]": {
